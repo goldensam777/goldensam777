@@ -1,6 +1,6 @@
 <div style={{ display: 'flex', alignItems: 'center', gap: '20px', marginBottom: '30px' }}>
   <img
-    src="/img/profile_picture.png"
+    src="profile_picture.png"
     alt="Samuel YEVI"
     style={{
       width: '120px',
