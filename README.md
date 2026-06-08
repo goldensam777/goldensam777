@@ -7,8 +7,10 @@
   <a href="mailto:leumasnedlogdev777@gmail.com">
     <img src="https://img.shields.io/badge/leumasnedlogdev777@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D333B" alt="Email" />
   </a>
-
-  <br/><br/>
+    <br/>
+  <img src="https://img.shields.io/badge/COMMITS%20ANNUELS-800%2B-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B" alt="Commits" />
+  <img src="https://img.shields.io/badge/STATUT-FOCUS-58A6FF?style=for-the-badge&labelColor=2D333B" alt="Statut" />
+<br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=&gt;&gt;%20Math%C3%A9matiques%2C%20Physique%20Quantique%2C%20IA;&gt;&gt;%20Python%2C%20C%2C%20Rust;&gt;&gt;%20Optima%2C%20immo%20absoluta%20perfectio." alt="Typed Text" />
 </div>
@@ -62,6 +64,6 @@ Je travaille actuellement sur Rust, NumPy, Scikit-Learn et PyTorch pour aller pl
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goldensam777&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=1A73E8&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldensam777&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=ffffff" alt="Top Languages" />
+  <h3>Activité Globale</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldensam777&theme=github_dark&area=true&hide_border=true&color=58A6FF" width="100%" alt="Activity Graph" />
 </div>
