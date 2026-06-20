@@ -3,7 +3,7 @@
 # YEVI Mawuli Péniel Samuel
 
 <a href="mailto:leumasnedlogdev777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D333B" />
+  <img src="https://img.shields.io/badge/Email-leumasnedlogdev777%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D333B" />
 </a>
 
 <a href="https://www.linkedin.com/in/samuel-yevi-b42071388/" target="_blank">
