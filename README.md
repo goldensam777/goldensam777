@@ -101,14 +101,6 @@ Je travaille sur plusieurs projets de recherche et d’ingénierie logicielle :
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goldensam777&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldensam777&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldensam777&theme=github-dark-blue&hide_border=true"/>
 
 </div>
