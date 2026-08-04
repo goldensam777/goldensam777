@@ -71,7 +71,7 @@ Python • NumPy • PyTorch • Scikit-Learn
 
 ### Systèmes & développement
 
-Rust (en apprentissage) • Git • TypeScript • React • Next.js • Django
+Rust • Git • TypeScript • React • Next.js • Django
 
 ---
 
@@ -86,14 +86,6 @@ Je travaille sur plusieurs projets de recherche et d’ingénierie logicielle :
 | **Bissi**       | Assistant IA local-first basé sur modèles open-source                             |
 | **Premier.js**  | Framework expérimental de composants frontend                                     |
 | **Leumas Labs** | Laboratoire personnel de recherche et prototypage                                 |
-
----
-
-# Hackathons & exploration
-
-* **Gemma 4 Good Hackathon** — Bissi (assistant IA local-first)
-* **DataTour 2026** — compétition en science des données
-* **Bitcoin Mastermind Hackathon 2026** — participation en préparation
 
 ---
 
